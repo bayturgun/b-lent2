@@ -1,0 +1,42 @@
+.üst-alan{
+    text-align: center;
+    background-color: red;
+    color: yellow;
+    margin: 0px;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.nav{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.link-item{
+text-decoration: none;
+margin-left: 35px;
+margin-right: 35px;
+color: #dca33d;
+}
+.content{
+    text-align: center;
+     padding-left: 55px;
+     padding-right: 55px;
+}
+.underline{
+    text-decoration: underline;
+}
+.content h1{
+    color: #18549e;
+}
+.content p{
+    line-height: 1.5;
+}
+.footer{
+background-color: rgb(100, 96, 102);
+padding: 10px;
+text-align: center;
+color: white;
+}
